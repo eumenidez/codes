@@ -11,3 +11,5 @@ Participant 4: (104,54);
 Participant 5: (96,58);
 Participant 6: (114,69);
 Participant 7: (109,63);
+### Pupil center distribution
+![Alt text](![Alt text](https://github.com/eumenidez/codes/blob/master/pupil_center/2.png))
